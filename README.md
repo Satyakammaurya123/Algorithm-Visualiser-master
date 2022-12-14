@@ -1,7 +1,7 @@
 Sorting Visualizer
 ==================
 
-Hosted at [https://algo-visualizer-tarsh.netlify.app](https://algo-visualizer-tarsh.netlify.app/)
+Hosted at [https://algo-visualizer-tarsh.netlify.app](https://algo-visualizer.netlify.app/)
 
 ### How to install and run
 
